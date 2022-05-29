@@ -1,0 +1,12 @@
+C:\E-COMMERCE ELETRÔNICOS\E-COMMERCE ELETRÔNICOS\ApplicationApp\bin\Debug\net6.0\ApplicationApp.deps.json
+C:\E-COMMERCE ELETRÔNICOS\E-COMMERCE ELETRÔNICOS\ApplicationApp\bin\Debug\net6.0\ApplicationApp.dll
+C:\E-COMMERCE ELETRÔNICOS\E-COMMERCE ELETRÔNICOS\ApplicationApp\bin\Debug\net6.0\ApplicationApp.pdb
+C:\E-COMMERCE ELETRÔNICOS\E-COMMERCE ELETRÔNICOS\ApplicationApp\obj\Debug\net6.0\ApplicationApp.csproj.AssemblyReference.cache
+C:\E-COMMERCE ELETRÔNICOS\E-COMMERCE ELETRÔNICOS\ApplicationApp\obj\Debug\net6.0\ApplicationApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\E-COMMERCE ELETRÔNICOS\E-COMMERCE ELETRÔNICOS\ApplicationApp\obj\Debug\net6.0\ApplicationApp.AssemblyInfoInputs.cache
+C:\E-COMMERCE ELETRÔNICOS\E-COMMERCE ELETRÔNICOS\ApplicationApp\obj\Debug\net6.0\ApplicationApp.AssemblyInfo.cs
+C:\E-COMMERCE ELETRÔNICOS\E-COMMERCE ELETRÔNICOS\ApplicationApp\obj\Debug\net6.0\ApplicationApp.csproj.CoreCompileInputs.cache
+C:\E-COMMERCE ELETRÔNICOS\E-COMMERCE ELETRÔNICOS\ApplicationApp\obj\Debug\net6.0\ApplicationApp.dll
+C:\E-COMMERCE ELETRÔNICOS\E-COMMERCE ELETRÔNICOS\ApplicationApp\obj\Debug\net6.0\refint\ApplicationApp.dll
+C:\E-COMMERCE ELETRÔNICOS\E-COMMERCE ELETRÔNICOS\ApplicationApp\obj\Debug\net6.0\ApplicationApp.pdb
+C:\E-COMMERCE ELETRÔNICOS\E-COMMERCE ELETRÔNICOS\ApplicationApp\obj\Debug\net6.0\ref\ApplicationApp.dll
