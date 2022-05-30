@@ -1,12 +1,14 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Entities.Notifications;
+using System.ComponentModel.DataAnnotations;
 
 namespace Entities.Entities
 {
-    internal class Base
+    public class Base : Notities
     {
+        [Display(Name = "Código")]
+        public int Id { get; set; }
+
+        [Display(Name = "Nome")]
+        public string Nome { get; set; }
     }
 }

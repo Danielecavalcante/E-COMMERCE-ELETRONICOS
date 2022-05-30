@@ -1,15 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations.Schema;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Entities.Notifications
 {
     public class Notities
     {
-       
+
         public Notities()
         {
             Notitycoes = new List<Notities>();
@@ -22,7 +17,7 @@ namespace Entities.Notifications
         public string mensagem { get; set; }
 
         [NotMapped]
-        public List<Notifies> Notitycoes;
+        public List<Notities> Notitycoes;
 
         public bool ValidarPropriedadeString(string valor, string nomePropriedade)
         {
@@ -63,7 +58,7 @@ namespace Entities.Notifications
 
             if (valor < 1 || string.IsNullOrWhiteSpace(nomePropriedade))
             {
-                Notitycoes.Add(new notities
+                Notitycoes.Add(new Notities
                 {
                     mensagem = "Valor deve ser maior que 0",
                     NomePropriedade = nomePropriedade
@@ -79,4 +74,4 @@ namespace Entities.Notifications
 
     }
 }
-}
+

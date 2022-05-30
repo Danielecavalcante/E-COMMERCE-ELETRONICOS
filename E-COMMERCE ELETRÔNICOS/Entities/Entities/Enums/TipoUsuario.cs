@@ -1,12 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Entities.Entities.Enums
+﻿namespace Entities.Entities.Enums
 {
-    internal class TipoUsuario
+    public enum TipoUsuario
     {
+        Administrador = 1,
+        Comum = 2
     }
 }

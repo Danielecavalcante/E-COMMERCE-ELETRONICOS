@@ -1,0 +1,5 @@
+C:\E-COMMERCE ELETRÔNICOS\E-COMMERCE ELETRÔNICOS\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+C:\E-COMMERCE ELETRÔNICOS\E-COMMERCE ELETRÔNICOS\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\E-COMMERCE ELETRÔNICOS\E-COMMERCE ELETRÔNICOS\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+C:\E-COMMERCE ELETRÔNICOS\E-COMMERCE ELETRÔNICOS\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+C:\E-COMMERCE ELETRÔNICOS\E-COMMERCE ELETRÔNICOS\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache

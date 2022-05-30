@@ -1,12 +1,14 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Microsoft.EntityFrameworkCore;
 
 namespace Infrastructure.Configuration
 {
-    internal class ContextBase
+    public class ContextBase : DbContext
     {
+        public ContextBase(DbContextOptions<ContextBase> options) : base(options)
+        {
+
+        }
+
+        public DbSet<Produto> Produto { get; set; }
     }
 }

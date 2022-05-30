@@ -3,11 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32519.379
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E-COMMERCE ELETRÔNICOS", "E-COMMERCE ELETRÔNICOS\E-COMMERCE ELETRÔNICOS.csproj", "{7F12F956-0CCD-48E7-B58E-90ADA068CFC9}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2-Application", "2-Application", "{A970A7C3-52EC-4531-92CB-E43FF4BC17DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApplicationApp", "ApplicationApp\ApplicationApp.csproj", "{F6A9AE83-71D7-437C-B885-51521FB53670}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApplicationApp", "ApplicationApp\ApplicationApp.csproj", "{F6A9AE83-71D7-437C-B885-51521FB53670}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1-Presentation", "1-Presentation", "{377020DE-849F-46DB-ADF0-23EA5964CAEC}"
 EndProject
@@ -17,11 +15,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4-Infra", "4-Infra", "{2695
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5-Entities", "5-Entities", "{E91F21F4-4043-484B-AAC0-D915E282647A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{4F826AEA-3E91-47C9-8C48-F96293FA060D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain", "Domain\Domain.csproj", "{4F826AEA-3E91-47C9-8C48-F96293FA060D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{F19D36DF-6D21-4D6B-A571-5834CC2EDAA6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{F19D36DF-6D21-4D6B-A571-5834CC2EDAA6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{7588EE63-A2AD-47EF-992F-2CD65DA0B980}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entities", "Entities\Entities.csproj", "{7588EE63-A2AD-47EF-992F-2CD65DA0B980}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,10 +27,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{7F12F956-0CCD-48E7-B58E-90ADA068CFC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7F12F956-0CCD-48E7-B58E-90ADA068CFC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7F12F956-0CCD-48E7-B58E-90ADA068CFC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7F12F956-0CCD-48E7-B58E-90ADA068CFC9}.Release|Any CPU.Build.0 = Release|Any CPU
 		{F6A9AE83-71D7-437C-B885-51521FB53670}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{F6A9AE83-71D7-437C-B885-51521FB53670}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F6A9AE83-71D7-437C-B885-51521FB53670}.Release|Any CPU.ActiveCfg = Release|Any CPU
